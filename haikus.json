@@ -1,22 +1,22 @@
 [
     {
-        "text": "rain in seattle,\ndon't forget an umbrella,\nor it will be gloom",
-        "image": "puddle_jumper_octodex.jpg"
+        "text": "欢迎来到Lucy的学习世界！",
+        "image": "my-image1.png"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
+        "text": "1.学习粒球相关知识",
         "image": "vinyltocat.jpeg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "text": "2.复刻粒球相关代码",
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "以上是现阶段的主要任务",
         "image": "Robotocat.jpeg"
     },
     {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "text": "花期不同，不必同舟！！！",
         "image": "linktocat.jpg"
     }
 ]
